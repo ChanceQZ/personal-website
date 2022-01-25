@@ -30,10 +30,10 @@ education:
   courses:
   - course: MSc in Geography
     institution: Nanjing Normal University, Jiangsu, China
-    year: 2020-present
+    year: 2020 - Present
   - course: BSc in Geography
     institution: Nantong University, Jiangsu, China
-    year: 2016-2020
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
