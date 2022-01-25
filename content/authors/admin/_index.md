@@ -14,23 +14,25 @@ organizations:
   url: http://en.njnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spatial data mining, deep learning, GeoAI and geographic modeling.
+bio: My research interests include GIS, GeoAI, spatial data mining, machine learning, deep learning, and geographic modeling.
 
 # Interests to show in About widget
 interests:
-- Spatial Data Mining
-- Deep Learning
+- GIS
 - GeoAI
+- Spatial Data Mining
+- Machine Learning
+- Deep Learning
 - Geographic modeling
 
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Cartography and Geographic Information System
-    institution: Nanjing Normal University
-    year: 2020-Present
-  - course: BSc in Geographic Information Science
-    institution: Nantong University
+  - course: MSc in Geography
+    institution: Nanjing Normal University, Jiangsu, China
+    year: 2020-present
+  - course: BSc in Geography
+    institution: Nantong University, Jiangsu, China
     year: 2016-2020
 
 # Social/Academic Networking
