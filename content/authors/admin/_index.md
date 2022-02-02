@@ -55,7 +55,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/QianZhen_CV_v1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +66,4 @@ highlight_name: true
 
 Chance (Zhen Qian) is a master student of GIS at the OpenGMS (Open Geographic Modeling and Simulation) lab in Nanjing Normal University. His research interests include spatial data mining, deep learning, GeoAI and geographic modeling.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/QianZhen_CV_v1.pdf" "newtab" >}}resumé{{< /staticref >}}.
