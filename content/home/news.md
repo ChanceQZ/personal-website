@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: News
-subtitle: 2020 - Present
+title: 
+subtitle: 
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -42,28 +42,25 @@ design:
 design:
   columns: '2'
 ---
-<div style="height: 60%; overflow:scroll;">
-  <ul>
-    <li>Publications so far: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv</li>
-    <li>2021/10/10 : First-authored paper ASSANet: An Anisotropic Separable Set Abstraction for Efficient Point Cloud Representation Learning gets accepted to NeurIPS’21 as a spotlight paper. code NEW!.</li>
-    <li>2021/03/07 : Co-first authored paper DeepGCNs: Making GCNs Go as Deep as CNNs get accpected to journal TPAMI’21 . We achieve SOTA on PPI and SOTA on ModleNet40. We also add experiments in PartNet. I implement the code.</li>
-    <li>2021/03/01 : First authored paper PUGCN get accepted to CVPR’21</li>
-    <li>2020/12/18 : I graduate as a Master in Computer Science! Congradulation to myself!!!</li>
-    <li>2020/12/01 : I write some random Deep Learning stuff on my blog Deep-Learning-PhD-Wiki. Keep updating!</li>
-    <li>2020/03/04 : Co-first authored paper SGAS (Sequential Greedy Architecture Search) get accepted to CVPR’20. See arxiv, project website and Code. I take care the GCN part.</li>
-    <li>2020/01/21 : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)</li>
-    <li>2019/05/03 : First authored paper “Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution” is available here arxiv. Release PixelShift200 dataset, a full color sampled dataset for demosaicking related research.</li>
-    <li>2020/06/14 : I graduated from Nantong University and gave a graduation speech as a representative of all graduates.</li>
-    <li>Publications so far: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv</li>
-    <li>2021/10/10 : First-authored paper ASSANet: An Anisotropic Separable Set Abstraction for Efficient Point Cloud Representation Learning gets accepted to NeurIPS’21 as a spotlight paper. code NEW!.</li>
-    <li>2021/03/07 : Co-first authored paper DeepGCNs: Making GCNs Go as Deep as CNNs get accpected to journal TPAMI’21 . We achieve SOTA on PPI and SOTA on ModleNet40. We also add experiments in PartNet. I implement the code.</li>
-    <li>2021/03/01 : First authored paper PUGCN get accepted to CVPR’21</li>
-    <li>2020/12/18 : I graduate as a Master in Computer Science! Congradulation to myself!!!</li>
-    <li>2020/12/01 : I write some random Deep Learning stuff on my blog Deep-Learning-PhD-Wiki. Keep updating!</li>
-    <li>2020/03/04 : Co-first authored paper SGAS (Sequential Greedy Architecture Search) get accepted to CVPR’20. See arxiv, project website and Code. I take care the GCN part.</li>
-    <li>2020/01/21 : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)</li>
-    <li>2019/05/03 : First authored paper “Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution” is available here arxiv. Release PixelShift200 dataset, a full color sampled dataset for demosaicking related research.</li>
-    <li>2020/06/14 : I graduated from Nantong University and gave a graduation speech as a representative of all graduates.</li>
-    <li>2020/03/15 : I graduated from Nantong University and gave a graduation speech as a representative of all graduates.</li>
-  </ul>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>News</h1>
+      <div style="height:400px;overflow:scroll">
+        <ul>
+          <li><strong>Publications so far</strong>: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv</li>
+          <li><em>2021/10/10</em> : First-authored paper <a href="https://arxiv.org/abs/2110.10538" target="_blank">ASSANet: An Anisotropic Separable Set Abstraction for Efficient Point Cloud Representation Learning</a> gets accepted to <strong>NeurIPS’21</strong> as a <strong>spotlight</strong> paper. <a href="https://github.com/guochengqian/ASSANet" target="_blank">code</a> <span class="enhance"><strong>NEW!</strong></span>.</li>
+          <li><em>2021/03/07</em> : Co-first authored paper <a href="https://arxiv.org/abs/1910.06849" target="_blank">DeepGCNs: Making GCNs Go as Deep as CNNs</a> get accpected to journal <strong>TPAMI’21</strong> . We achieve <a href="https://paperswithcode.com/sota/node-classification-on-ppi" target="_blank">SOTA on PPI</a> and SOTA on ModleNet40. We also add experiments in PartNet. I implement the <a href="https://github.com/lightaime/deep_gcns_torch" target="_blank">code</a>.</li>
+          <li><em>2021/03/01</em> : First authored paper <a href="https://arxiv.org/abs/1912.03264" target="_blank"><strong>PUGCN</strong></a> get accepted to <strong>CVPR’21</strong></li>
+          <li><em>2020/12/18</em> : I graduate as a Master in Computer Science! Congradulation to myself!!!</li>
+          <li><em>2020/12/01</em> : I write some random Deep Learning stuff on my blog <a href="https://deep-learning-phd-wiki.readthedocs.io/en/latest/" target="_blank"><strong>Deep-Learning-PhD-Wiki</strong></a>. Keep updating!</li>
+          <li><em>2020/03/04</em> : Co-first authored paper <a href="https://www.deepgcns.org/auto/sgas" target="_blank"><strong>SGAS</strong></a> (Sequential Greedy Architecture Search) get accepted to <strong>CVPR’20</strong>. See <a href="https://arxiv.org/abs/1912.00195" target="_blank">arxiv</a>, <a href="https://sites.google.com/kaust.edu.sa/sgas" target="_blank">project website</a> and <a href="https://github.com/lightaime/sgas" target="_blank">Code</a>. I take care the GCN part.</li>
+          <li><em>2020/01/21</em> : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)</li>
+          <li><em>2019/05/03</em> : First authored paper “Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution” is available here <a href="https://arxiv.org/abs/1905.02538" target="_blank">arxiv</a>. Release <a href="http://gcqian.com/pixelshift200" target="_blank">PixelShift200 dataset</a>, a full color sampled dataset for demosaicking related research.</li>
+          <li><em>2018/07/10</em> : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA <strong>3.93</strong>/4.3).</li>
+          <li><em>2018/06/20</em> : I join Sensetime Research as a research intern, supervised by <a href="http://www.jimmyren.com/" target="_blank">Jimmy S. Ren</a>.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
