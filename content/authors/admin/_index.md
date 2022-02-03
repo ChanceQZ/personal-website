@@ -6,10 +6,12 @@ title: Chance (Zhen Qian)
 superuser: true
 
 # Role/position/tagline
-role: Master student of Nanjing Normal University
+role: Master student in GIS
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Nanjing Normal University
+  url: https://www.njnu.edu.cn/
 - name: Open Geographic Modeling and Simulation (OpenGMS)
   url: https://geomodeling.njnu.edu.cn/
 
@@ -18,12 +20,9 @@ bio: My research interests include GIS, GeoAI, spatial data mining, machine lear
 
 # Interests to show in About widget
 interests:
-- GIS
-- GeoAI
-- Spatial Data Mining
-- Machine Learning
-- Deep Learning
-- Geographic modeling
+- Geographic Information Science (GIS)
+- Geospatial Artificial Intelligence (GeoAI)
+- Geographic Modeling and Simulation
 
 # Education to show in About widget
 education:
@@ -43,19 +42,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'qz_gis@163.com'
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=X1w2lCUAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/ChanceQZ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=X1w2lCUAAAAJ
+- icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0423-7430
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/QianZhen_CV_v1.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/QianZhen_CV_v1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +69,3 @@ highlight_name: true
 
 Chance (Zhen Qian) is a master student of GIS at the OpenGMS (Open Geographic Modeling and Simulation) lab in Nanjing Normal University. His research interests include spatial data mining, deep learning, GeoAI and geographic modeling.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/QianZhen_CV_v1.pdf" "newtab" >}}resumé{{< /staticref >}}.
