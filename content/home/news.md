@@ -42,7 +42,7 @@ design:
 design:
   columns: '1'
 ---
-<div style="width: 100px;height: 100px; overflow-x:hidden;">
+<div align="center" style="overflow-x:hidden;">
 * Publications so far: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv
 * 2021/10/10 : First-authored paper ASSANet: An Anisotropic Separable Set Abstraction for Efficient Point Cloud Representation Learning gets accepted to NeurIPS’21 as a spotlight paper. code NEW!.
 * 2021/03/07 : Co-first authored paper DeepGCNs: Making GCNs Go as Deep as CNNs get accpected to journal TPAMI’21 . We achieve SOTA on PPI and SOTA on ModleNet40. We also add experiments in PartNet. I implement the code.
