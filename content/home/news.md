@@ -42,7 +42,7 @@ design:
 design:
   columns: '1'
 ---
-'''
+```
 * Publications so far: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv
 * 2021/10/10 : First-authored paper ASSANet: An Anisotropic Separable Set Abstraction for Efficient Point Cloud Representation Learning gets accepted to NeurIPS’21 as a spotlight paper. code NEW!.
 * 2021/03/07 : Co-first authored paper DeepGCNs: Making GCNs Go as Deep as CNNs get accpected to journal TPAMI’21 . We achieve SOTA on PPI and SOTA on ModleNet40. We also add experiments in PartNet. I implement the code.
@@ -54,4 +54,5 @@ design:
 * 2019/05/03 : First authored paper “Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution” is available here arxiv. Release PixelShift200 dataset, a full color sampled dataset for demosaicking related research.
 * 2020/06/14 : I graduated from Nantong University and gave a graduation speech as a representative of all graduates.
 * 2020/03/15 : I graduated from Nantong University and gave a graduation speech as a representative of all graduates.
-'''
+
+```
