@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: News
-subtitle:
+subtitle: 2020 - Present
 
 design:
   # Choose a view for the listings:
@@ -21,7 +21,7 @@ design:
   view: 1
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 * Publications so far: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv
