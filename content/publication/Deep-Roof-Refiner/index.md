@@ -5,7 +5,7 @@ title: "Deep Roof Refiner: A detail-oriented deep learning network for refined d
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zhen Qian
+- admin
 - Min Chen
 - Teng Zhong
 - Fan Zhang
@@ -41,7 +41,7 @@ abstract: Urban research is progressively moving towards fine-grained simulation
 # Summary. An optional shortened abstract.
 summary: To overcome these two challenges of delineating roof structure lines from satellite imagery, the Deep Roof Refiner—a detail-oriented deep learning network and a synthetic strategy were proposed.
 
-tags: []
+tags: ["Deep learning", "Roof Structure Lines", "Satellite Imagery", "Fine-grained Geospatial Data"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -63,7 +63,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Workflow**](https://ars.els-cdn.com/content/image/1-s2.0-S030324342200006X-gr5_lrg.jpg)'
   focal_point: ""
   preview_only: false
 
