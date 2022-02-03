@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 
-subtitle: 
+title: Related News
+subtitle: 2020-Present
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -45,7 +45,6 @@ design:
 <div class="container">
   <div class="row">
     <div class="col-lg-12">
-      <h1>News</h1>
       <div style="height:400px;overflow:scroll">
         <ul>
           <li><strong>Publications so far</strong>: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv</li>
