@@ -41,6 +41,7 @@ design:
 
 design:
   columns: '2'
+---
 
 * Publications so far: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv
 * 2021/10/10 : First-authored paper ASSANet: An Anisotropic Separable Set Abstraction for Efficient Point Cloud Representation Learning gets accepted to NeurIPS’21 as a spotlight paper. code NEW!.
@@ -53,4 +54,3 @@ design:
 * 2019/05/03 : First authored paper “Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution” is available here arxiv. Release PixelShift200 dataset, a full color sampled dataset for demosaicking related research.
 * 2018/07/10 : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA 3.93/4.3).
 * 2018/06/20 : I join Sensetime Research as a research intern, supervised by Jimmy S. Ren.
----
