@@ -12,25 +12,6 @@ weight: 70
 title: News
 subtitle:
 
-content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -40,7 +21,7 @@ design:
   view: 1
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 * Publications so far: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv
@@ -52,5 +33,4 @@ design:
 * 2020/03/04 : Co-first authored paper SGAS (Sequential Greedy Architecture Search) get accepted to CVPR’20. See arxiv, project website and Code. I take care the GCN part.
 * 2020/01/21 : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)
 * 2019/05/03 : First authored paper “Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution” is available here arxiv. Release PixelShift200 dataset, a full color sampled dataset for demosaicking related research.
-* 2018/07/10 : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA 3.93/4.3).
-* 2018/06/20 : I join Sensetime Research as a research intern, supervised by Jimmy S. Ren.
+* 2020/06/10 : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA 3.93/4.3).
