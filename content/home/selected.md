@@ -37,5 +37,5 @@ design:
 
 design:
   columns: '2'
----
 More publications are available via Google Scholar [Chance's profile](https://scholar.google.co.uk/citations?user=X1w2lCUAAAAJ).
+---
