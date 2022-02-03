@@ -10,8 +10,8 @@ role: Master student of Nanjing Normal University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nanjing Normal University
-  url: http://en.njnu.edu.cn/
+- name: Open Geographic Modeling and Simulation (OpenGMS)
+  url: https://geomodeling.njnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include GIS, GeoAI, spatial data mining, machine learning, deep learning, and geographic modeling.
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'qz_gis@163.com'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=X1w2lCUAAAAJ
@@ -53,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/QianZhen_CV_v1.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/QianZhen_CV_v1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
