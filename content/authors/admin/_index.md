@@ -20,9 +20,9 @@ bio: My research interests include GIS, GeoAI, spatial data mining, machine lear
 
 # Interests to show in About widget
 interests:
-- Geographic Information Science (GIS)
-- Geospatial Artificial Intelligence (GeoAI)
-- Geographic Modeling and Simulation
+- Geographic Information Science
+- Geospatial Artificial Intelligence
+- Geographic Modeling
 
 # Education to show in About widget
 education:
@@ -67,5 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-Chance (Zhen Qian) is a master student of GIS at the OpenGMS (Open Geographic Modeling and Simulation) lab in Nanjing Normal University. His research interests include spatial data mining, deep learning, GeoAI and geographic modeling.
+Chance (Zhen Qian, 钱振) is currently a second-year Master student in GIS at Nanjing Normal University (NNU). He is part of the Open Geographic Modeling and Simulation (OpenGMS) Lab advised by Prof. Min Chen. Chance received his B.Eng degree with first class honors from Nantong University (NTU), China in 2020. He is looking for a position as a Ph.D. candidate.
+
+Chance has had a variety of research experiences during his undergraduate and graduate studies, including social sensing of multi-source data, recognition of satellite imagery, and high performance computing of spatial data. His CV is available {{< staticref "uploads/QianZhen_CV_v1.pdf" "newtab" >}}here{{< /staticref >}}.
 
