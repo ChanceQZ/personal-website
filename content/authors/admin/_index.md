@@ -14,7 +14,7 @@ organizations:
   url: http://en.njnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include GIS, GeoAI, spatial data mining, machine learning, deep learning, and geographic modeling.
+bio: I'm a GISer, and my research interests include spatial data mining, machine learning, deep learning, and geographic modeling.
 
 # Interests to show in About widget
 interests:
