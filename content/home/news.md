@@ -57,7 +57,8 @@ design:
           <li><em>2020/01/21</em> : I serve as Teaching Assistant for course: CS390D Deep Learning (2020 Spring)</li>
           <li><em>2019/05/03</em> : First authored paper “Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution” is available here <a href="https://arxiv.org/abs/1905.02538" target="_blank">arxiv</a>. Release <a href="http://gcqian.com/pixelshift200" target="_blank">PixelShift200 dataset</a>, a full color sampled dataset for demosaicking related research.</li>
           <li><em>2018/07/10</em> : I graduate from Xi’an Jiaotong University with the highest undergraduate honor (with GPA <strong>3.93</strong>/4.3).</li>
-          <li><em>2018/06/20</em> : I join Sensetime Research as a research intern, supervised by <a href="http://www.jimmyren.com/" target="_blank">Jimmy S. Ren</a>.</li>
+          <li><em>2020/03/15</em> : I join Sensetime Research as a research intern, supervised by <a href="http://www.jimmyren.com/" target="_blank">Jimmy S. Ren</a>.</li>
+          <li><em>2020/03/15</em> : First-authored paper <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=X1w2lCUAAAAJ&citation_for_view=X1w2lCUAAAAJ:UeHWp8X0CEIC" target="_blank"><strong>Cluster-Based Extraction Method of Entrances and Exits in AOI</strong></a> get published to <strong>Geography and Geo-Information Science (in Chinese, Chinese Core Journals)</strong></li>
         </ul>
       </div>
     </div>
