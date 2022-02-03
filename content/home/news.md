@@ -42,7 +42,7 @@ design:
 design:
   columns: '1'
 ---
-<div style="height: 60%; overflow-x:hidden;">
+<div style="height: 80%; overflow-x:hidden;">
   <ul>
     <li>Publications so far: 2 CVPR, 1 TPAMI, 1 NeurIPS, 2 Arxiv</li>
     <li>2021/10/10 : First-authored paper ASSANet: An Anisotropic Separable Set Abstraction for Efficient Point Cloud Representation Learning gets accepted to NeurIPS’21 as a spotlight paper. code NEW!.</li>
