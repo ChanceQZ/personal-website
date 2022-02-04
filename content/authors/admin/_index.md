@@ -65,7 +65,7 @@ email: ""
 highlight_name: true
 ---
 
-Zhen Qian (Chance, 钱振) is currently a second-year Master student in GIS at [Nanjing Normal University (NNU)](http://en.njnu.edu.cn/). He is part of the [Open Geographic Modeling and Simulation (OpenGMS)](https://geomodeling.njnu.edu.cn/) Lab advised by [Prof. Min Chen](http://schools.njnu.edu.cn/geog/person/min-chen). Chance received his B.Eng degree with first class honors from [Nantong University (NTU)](https://en.ntu.edu.cn/), China in 2020. He is looking for a position as a Ph.D. candidate.
+Zhen Qian (Chance, 钱振) is currently a second-year Master student in GIS at [Nanjing Normal University (NNU)](http://en.njnu.edu.cn/). He is part of the [Open Geographic Modeling and Simulation (OpenGMS)](https://geomodeling.njnu.edu.cn/) Lab advised by [Prof. Min Chen](http://schools.njnu.edu.cn/geog/person/min-chen). Chance received his B.Sc degree with first class honors from [Nantong University (NTU)](https://en.ntu.edu.cn/), China in 2020. He is looking for a position as a Ph.D. candidate.
 
 Chance has had a variety of research experiences during his undergraduate and graduate studies, including social sensing of multi-source data, recognition of satellite imagery, and high performance computing of spatial data. His CV is available {{< staticref "uploads/QianZhen_CV_v1.pdf" "newtab" >}}here{{< /staticref >}}.
 
