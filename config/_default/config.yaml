@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Zhen Qian (Chance) # Website name
-baseurl: 'https://qianzhen.netlify.app/' # Website URL
-copyright: '© {year} Chance (Zhen Qian)' # Footer text, e.g. '© {year} Me'
+baseurl: 'www.zqian-chance.com' # Website URL
+copyright: '© {year} Zhen Qian (Chance)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -47,7 +47,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 90
   anchor: smart
 timeout: 600000
 taxonomies:
