@@ -7,18 +7,18 @@ title: "Vectorized rooftop area data for 90 cities in China"
 authors:
 - Zhixin Zhang
 - admin
-- Zhong Teng
-- Chen Min
-- Zhang Kai
-- Yang Yue
-- Zhu Rui
-- Zhang Fan
-- Zhang Haoran
-- Zhou Fangzhuo
-- Yu Jianing
-- Zhang Bingyue
-- Lü Guonian
-- Yan Jinyue
+- Teng Zhong
+- Min Chen
+- Kai Zhang
+- Yue Yang
+- Rui Zhu
+- Fan Zhang
+- Haoran Zhang
+- Fangzhuo Zhou
+- Jianing Yu
+- Bingyue Zhang
+- Guonian Lü
+- Jinyue Yan
 
 # Author notes (optional)
 #author_notes:
