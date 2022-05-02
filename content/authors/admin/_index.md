@@ -18,9 +18,9 @@ bio: I'm a GISer that interests in spatial data mining, machine learning, deep l
 
 # Interests to show in About widget
 interests:
-- Geographic Information Science
+- Geospatial Data Mining
 - Geospatial Artificial Intelligence
-- Geographic Modeling
+- Computer Vision and Remote Sensing
 
 # Education to show in About widget
 education:
