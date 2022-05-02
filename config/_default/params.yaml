@@ -126,7 +126,7 @@ marketing:
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
-  baidu_tongji: ''
+  baidu_tongji: 'a867f1ff58f09d415d443ef0915d0403'
 cms:
   branch: master
   local_backend: false
