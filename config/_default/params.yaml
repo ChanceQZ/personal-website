@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: qz_gis@163.com
+email: qianxz9712@gmail.com
 address:
   street: No.1, Wenyuan Road, Xianlin University District
   city: Nanjing
@@ -122,7 +122,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-FYQKDM29SC'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''

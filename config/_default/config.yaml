@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Zhen Qian (Chance) # Website name
+title: Zhen Qian (钱振) # Website name
 baseurl: 'www.zqian-chance.com' # Website URL
-copyright: '© {year} Zhen Qian (Chance)' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Zhen Qian (钱振)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
