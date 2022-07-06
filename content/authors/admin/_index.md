@@ -6,7 +6,7 @@ title: Zhen Qian
 superuser: true
 
 # Role/position/tagline
-role: Master student in GIS
+role: Master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: http://en.njnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a GISer that interests in spatial data mining, machine learning, deep learning, and geographic modeling.
+bio: I am passionate about geospatial and artificial intelligence technologies and aim to use them to solve various interdisciplinary problems.
 
 # Interests to show in About widget
 interests:
-- Geospatial Data Mining
-- Geospatial Artificial Intelligence
-- Computer Vision and Remote Sensing
+- GIScience and Remote Sensing
+- Spatial Data Mining
+- Machine Learning and Deep Learning
 
 # Education to show in About widget
 education:
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'qz_gis@163.com'
+  link: 'qianxz9712@gmail.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/ChanceQZ
@@ -65,7 +65,5 @@ email: ""
 highlight_name: true
 ---
 
-Zhen Qian (Chance, 钱振) is currently a second-year Master student in GIS at [Nanjing Normal University (NNU)](http://en.njnu.edu.cn/). He is a member of the [Open Geographic Modeling and Simulation (OpenGMS)](https://geomodeling.njnu.edu.cn/) Lab advised by [Prof. Min Chen](http://schools.njnu.edu.cn/geog/person/min-chen). Chance received his B.Sc degree with first class honors from [Nantong University (NTU)](https://en.ntu.edu.cn/), China in 2020.
-
-Chance has had many research experiences during his undergraduate and graduate studies, including social sensing of multi-source data, recognition of satellite imagery, and high performance computing of spatial data. His CV is available {{< staticref "uploads/ZhenQian_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+Welcome to my website! I am currently a master student in GIScience at Nanjing Normal University, and a member of the [Open Geographic Modeling and Simulation (OpenGMS)](https://geomodeling.njnu.edu.cn/) Lab advised by [Prof. Min Chen](http://schools.njnu.edu.cn/geog/person/min-chen). I received my B.Sc degree in GIScience with first class honor from [Nantong University (NTU)](https://en.ntu.edu.cn/), China in 2020. I am interested in the philosophy of combining geospatial technologies (GIS and Remote Sensing) with artificial intelligence technologies, aiming at developing innovative approaches to solving problems in a variety of domains, including ecology, environment, urban, energy, etc. On this website you can find my {{< staticref "uploads/ZhenQian_CV.pdf" "newtab" >}}CV{{< /staticref >}}, recent news, publications and information on the software I have developed.
 
