@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Selected Publications
-subtitle: More publications are available via Google Scholar [Chance's profile](https://scholar.google.co.uk/citations?user=X1w2lCUAAAAJ).
+subtitle: More publications are available via my [Google Scholar profile](https://scholar.google.co.uk/citations?user=X1w2lCUAAAAJ).
 
 content:
   # Page type to display. E.g. post, talk, publication...
