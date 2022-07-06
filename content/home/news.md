@@ -47,9 +47,9 @@ design:
     <div class="col-lg-12">
       <div style="height:400px;overflow:scroll">
         <ul>
-          <li><em>2022/01/12</em> : 📑 Second-authored paper "Vectorized rooftop area data for 90 cities in China" get accepted to <em><strong>Scientific Data</strong></em> [IF 6.444, JCR Q1]. Release the first vectorized rooftop area data for 90 cities in China. I take care the deep learning modeling and high performance computing part.</li>
-          <li><em>2022/01/09</em> : 📑 First-authored paper "Deep Roof Refiner: A detail-oriented deep learning network for refined delineation of roof structure lines using satellite imagery" get accepted to <em><strong>International Journal of Applied Earth Observations and Geoinformation</strong></em> [IF 5.933, JCR Q1].</li>
-          <li><em>2021/12/20</em> : 📑 Second-authored paper "Using street view images to identify road noise barriers with ensemble classification model and geospatial analysis" get accepted to <em><strong>Sustainable Cities and Society</strong></em> [IF 7.587, JCR Q1]. I take care the deep learning modeling and high performance computing part.</li>
+          <li><em>2022/01/12</em> : 📑 Second-authored paper "Vectorized rooftop area data for 90 cities in China" get accepted to <em><strong>Scientific Data</strong></em> [IF 8.501, JCR Q1]. Release the first vectorized rooftop area data for 90 cities in China. I undertook deep learning model development, high performance computing, and article writing.</li>
+          <li><em>2022/01/09</em> : 📑 First-authored paper "Deep Roof Refiner: A detail-oriented deep learning network for refined delineation of roof structure lines using satellite imagery" get accepted to <em><strong>International Journal of Applied Earth Observations and Geoinformation</strong></em> [IF 7.672, JCR Q1].</li>
+          <li><em>2021/12/20</em> : 📑 Second-authored paper "Using street view images to identify road noise barriers with ensemble classification model and geospatial analysis" get accepted to <em><strong>Sustainable Cities and Society</strong></em> [IF 10.696, JCR Q1]. I undertook the deep learning development and high performance computing part.</li>
           <li><em>2021/11/29</em> : 🏆 I am awarded the title of Outstanding Student Leaders in University for Postgraduates <strong>(Top 1%)</strong></li>
           <li><em>2021/10/28</em> : 🏆 I receive the First-class Scholarship for Postgraduates <strong>(Top 3%)</strong></li>
           <li><em>2021/09/10</em> : 🏆 My graduate thesis is awarded "Excellent Graduation Design (Thesis) in Jiangsu Province for Undergraduates" <strong>(Top 1%)</strong></li>
@@ -58,7 +58,7 @@ design:
           <li><em>2020/11/10</em> : 🏆 My graduate thesis is awarded "Excellent Graduation Thesis of Surveying and Mapping in Jiangsu Province for Undergraduates" <strong>(Top 1%)</strong></li>
           <li><em>2020/10/21</em> : 🏆 I receive the First-class Scholarship for Postgraduates <strong>(Top 3%)</strong></li>
           <li><em>2020/09/16</em> : 🎯 I join OpenGMS lab in NNU as a master student, supervised by Prof. Min Chen.</li>
-          <li><em>2020/07/28</em> : 📑 First-authored paper “Identification of urban functional areas by coupling satellite images and taxi GPS trajectories” get accepted to <em><strong>Remote Sensing</strong></em> [IF 4.848, JCR Q2]. </li>
+          <li><em>2020/07/28</em> : 📑 First-authored paper “Identification of urban functional areas by coupling satellite images and taxi GPS trajectories” get accepted to <em><strong>Remote Sensing</strong></em> [IF 5.349, JCR Q1]. </li>
           <li><em>2020/06/14</em> : 🎯 I graduate from Nantong University and give a graduation speech as <strong>a representative of all graduates</strong>.</li>
           <li><em>2020/03/15</em> : 📑 First-authored paper "Cluster-based extraction method of entrances and exits in AOI" get published to <em><strong>Geography and Geo-Information Science</strong></em> [in Chinese, Chinese Core Journals].</li>
         </ul> 
