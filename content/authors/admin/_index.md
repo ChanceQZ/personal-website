@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: zhenqian@nnu.edu.cn
+  link: mailto:zhenqian@nnu.edu.cn
 - icon: github
   icon_pack: fab
   link: https://github.com/ChanceQZ
