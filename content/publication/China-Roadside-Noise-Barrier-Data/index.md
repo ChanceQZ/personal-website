@@ -1,5 +1,5 @@
 ---
-title: "Deep Roof Refiner: A detail-oriented deep learning network for refined delineation of roof structure lines using satellite imagery"
+title: "Vectorized dataset of roadside noise barriers in China using street view imagery"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
